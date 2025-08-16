@@ -11,7 +11,7 @@ function App() {
 const locomotiveScroll = new LocomotiveScroll();
 
   return (
-    <div className="w-full">
+    <div className="w-full overflow-x-hidden overflow-y-hidden">
       <Navbar/>
       <Landing/>
       <Work/>

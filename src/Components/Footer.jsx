@@ -2,7 +2,7 @@ import React from "react";
 
 function Footer() {
   return (
-    <div data-scroll data-scroll-speed='-0.3'  className="z-[1] h-[155vw] lg:h-[120vh] overflow-hidden md:h-[55vh] text-[#E0CCBB] bg-[#090909] justify-end  lg:px-20 md:px-12 sm:px-8 px-6 w-full py-5 flex flex-col ">
+    <div className="z-[1] h-[155vw] lg:h-[120vh] overflow-hidden md:h-[55vh] text-[#E0CCBB] bg-[#090909] justify-end  lg:px-20 md:px-12 sm:px-8 px-6 w-full py-5 flex flex-col ">
       <div className="footerfirstdiv relative items-center justify-between flex">
         <div className="heading relative z-[1] lg:text-[10vw] md:text-8xl font-[light] sm:mt-20 text-7xl">
           <h1 className="leading-[1]">Our</h1>

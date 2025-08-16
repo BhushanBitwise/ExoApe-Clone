@@ -12,4 +12,6 @@ This project is a clone of the award-winning website **ExoApe**. It was built us
 
 ## Live Demo
 
-Check out the live version of the website here: [ExoApe Clone](https://exo-ape-u7v3.vercel.app/)  
+Check out the live version of the website here: [ExoApe Clone](https://exo-ape-clone-alpha.vercel.app/)  
+
+

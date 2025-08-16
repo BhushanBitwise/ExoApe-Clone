@@ -39,10 +39,15 @@ function Landing() {
                         
                     </div>
                     <div className="sm:w-1/2 para2 mt-20">
-                        <p className="text-lg font-semibold sm:text-2xl sm:tracking-tighter sm:opacity-[80%]">We help experience-driven companies thrive by making their audience 
+                        <motion.p
+                        initial={{opacity:0}}
+                        whileInView={{opacity:1}}
+                        viewport={{once:true}}
+                        transition={{ease:Power4.easeInOut,duration:2,delay:3}}
+                        className="text-lg font-semibold sm:text-2xl sm:tracking-tighter sm:opacity-[80%]">We help experience-driven companies thrive by making their audience 
                             feel the refined intricacies of their brand and product in the 
                             digital space. Unforgettable journeys start with a click.
-                        </p>
+                        </motion.p>
                         <a className="sm:text-xl border-b-[1.5px] mt-10 inline-block border-zinc-100 pb-1" href="#">The Studio</a>
                     </div>
                 </div>

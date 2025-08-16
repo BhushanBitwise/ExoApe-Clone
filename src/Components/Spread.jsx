@@ -5,7 +5,7 @@ function Spread()
 {
     return(
         <div className="w-full bg-white py-20 ">
-            <div className="max-w-screen-2xl h-[70%] sm:h-[100vh] sm:mt-10 mx-auto px-5 sm:px-17 ">
+            <div className="max-w-screen-2xl h-[40%] sm:h-[100vh] sm:mt-10 mx-auto px-5 sm:px-17 ">
                     <div className="flex items-center justify-center  gap-5">
                              <svg
                   viewBox="0 0 12 12"
